@@ -31,20 +31,20 @@ All analysis pipelines are version controlled using Git and hosted on GitHub. Th
 
 - What is Git?
 - Making a project on GitHub
-- (Zen of Python)[https://peps.python.org/pep-0020/]
+- [Zen of Python](https://peps.python.org/pep-0020/)
 - Intro to Python
-- (uv on EDDIE)[https://chrishalcrow.github.io/uv_on_eddie/]
+- [uv on EDDIE](https://chrishalcrow.github.io/uv_on_eddie/)
 
 And we maintain some helper packages:
 
-Helpers for the EDDIE supercomputer: (eddie-helper)[https://github.com/chrishalcrow/eddie_helper]
-Loading data easily: (loadi)[https://github.com/chrishalcrow/loadi]
+Helpers for the EDDIE supercomputer: [eddie-helper](https://github.com/chrishalcrow/eddie_helper)
+Loading data easily: [loadi](https://github.com/chrishalcrow/loadi)
 
 We use many open source packages, primarily:
 
-- (SpikeInterface)[https://github.com/SpikeInterface/spikeinterface]
-- (KiloSort)[https://github.com/MouseLand/Kilosort]
-- (DeepLabCut)[https://github.com/deeplabcut/deeplabcut]
-- (Pynapple)[https://github.com/pynapple-org/pynapple]
+- [SpikeInterface](https://github.com/SpikeInterface/spikeinterface)
+- [KiloSort](https://github.com/MouseLand/Kilosort)
+- [DeepLabCut](https://github.com/deeplabcut/deeplabcut)
+- [Pynapple](https://github.com/pynapple-org/pynapple)
 
 Many thanks to those who maintain these packages!
