@@ -31,6 +31,8 @@ We keep a repo at https://github.com/MattNolanLab/ for each of the major steps i
 
 These are simple "template" repos. They contain the "minimal viable code". Your experiment might require adjusting them. Instead of directly editing them, you should create your own fork of the repo. To do this, go to the original repo (e.g. https://github.com/MattNolanLab/nolanlab-ephys) then click the arrow next to "Fork" at the top, then "Create a new fork". This will open a new page. You can then adjust some settings before clicking "Create fork". There is now a copy of the repo on your personal GitHub page (e.g. Chris' one is at https://github.com/chrishalcrow/nolanlab-ephys/). Now clone this repo (`git clone https://github.com/yourusername/nolanlab-ephys/`). You can now do anything you'd like to this repo without affecting the original one.
 
+We use a **source** and **scripts** workflow. The source can be found in each repo in the `src` folder. It contains carefully written code that is useful for many projects, and (we hope) doesn't need to be changed. Ideally: everyone in the lab uses the same source code. The scripts folder is for code that changes experiment to experiment, or for code that is used for a one-off job. It's the folder where you can write experimental, messy, playful code. And feel free to write Jupyter notebooks here if you'd like.
+
 This system is designed so that there is a simple working base to start from (e.g. the MattNolanLab/nolanlab-ephys has a functional spike sorting pipeline in it) but each researcher can easily customize the pipeline if needed. If this is all a bit overwhelming: don't worry. There is documentation, advice and instructions on each repo. Go have a look!
 
 ## Help!! Git, GitHub, Python, uv, EDDIE...
