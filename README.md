@@ -28,6 +28,7 @@ We keep a repo at https://github.com/MattNolanLab/ for each of the major steps i
 
 - Spike sorting and ephys quality control: https://github.com/MattNolanLab/nolanlab-ephys
 - Using DeepLabCut: https://github.com/MattNolanLab/nolanlab-dlc
+- Synchronising data: https://github.com/mattNolanLab/nolanlab-sync
 
 These are simple "template" repos. They contain the "minimal viable code". Your experiment might require adjusting them. Instead of directly editing them, you should create your own fork of the repo. To do this, go to the original repo (e.g. https://github.com/MattNolanLab/nolanlab-ephys) then click the arrow next to "Fork" at the top, then "Create a new fork". This will open a new page. You can then adjust some settings before clicking "Create fork". There is now a copy of the repo on your personal GitHub page (e.g. Chris' one is at https://github.com/chrishalcrow/nolanlab-ephys/). Now clone this repo (`git clone https://github.com/yourusername/nolanlab-ephys/`). You can now do anything you'd like to this repo without affecting the original one.
 
